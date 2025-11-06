@@ -8,6 +8,7 @@
 - [Desenvolvido por](#desenvolvido-por)
 
 ## O Projeto
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/92153857-3189-491e-b2fc-b6fe6d086348" /> <br>
 O Vision Plant é um aplicativo que ajuda usuários a identificar o estado de saúde de suas plantas por meio de uma simples foto. Utilizando Inteligência Artificial e Visão Computacional, o app analisa aspectos visuais (como cor, textura e aparência das folhas) para indicar se a planta está saudável ou apresenta sinais de doença, pragas ou deficiência de nutrientes.
 
 A proposta é oferecer uma solução acessível, intuitiva e sustentável, voltada a todos que amam plantas, mas não possuem experiência ou conhecimento técnico em jardinagem.
