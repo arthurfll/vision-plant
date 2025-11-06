@@ -1,5 +1,5 @@
 # Vision Plant
-   <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/92153857-3189-491e-b2fc-b6fe6d086348" />
+   <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/92153857-3189-491e-b2fc-b6fe6d086348" /> <br>
 ## Índice
 - [O projeto](#o-projeto)
 - [Problema](#problema)
